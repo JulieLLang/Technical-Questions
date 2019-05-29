@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\bin\Debug\Technical Questions.exe.config
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\bin\Debug\Technical Questions.exe
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\bin\Debug\Technical Questions.pdb
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\obj\Debug\Technical Questions.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\obj\Debug\Technical Questions.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\obj\Debug\Technical Questions.exe
+C:\Users\Student\Documents\GitHub\Technical Questions\Technical Questions\obj\Debug\Technical Questions.pdb
